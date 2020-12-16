@@ -1,0 +1,23 @@
+{
+  "name": "nucleo-maps-vue2",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "index.js",
+  "description": "Base configurations for projects using Maps in VueJS",
+  "author": {
+    "name": "João Cruz Araujo Neto",
+    "email": "jcruzaraujoneto@outlook.com",
+    "homepage": "https://earthtechnollogy.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaocruz-dev/nucleo-maps-vue2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joaocruz-dev/nucleo-maps-vue2/issues"
+  },
+  "homepage": "https://github.com/joaocruz-dev/nucleo-maps-vue2#readme",
+  "dependencies": {
+    "vue2-google-maps": "^0.10.7"
+  }
+}
