@@ -1,6 +1,6 @@
 {
   "name": "nucleo-maps-vue2",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "main": "index.js",
   "description": "Base configurations for projects using Maps in VueJS",

@@ -63,7 +63,7 @@ export default {
     },
     path_changedFn (event) {
       if (!this.editable) return
-      const path = event.i.map(i => ({ lat: i.lat(), lng: i.lng() }))
+      const path = event.Lb.map(x => ({ lat: x.lat(), lng: x.lng() }))
       if (this.checkPath) {
         if (!this.checkPath(path)) {
           this.path = [...this.path]
